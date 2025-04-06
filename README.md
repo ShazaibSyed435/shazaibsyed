@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Syed Shazaib Zaheer</h1>
-<h3 align="center">A passionate frontend developer from Pakistain</h3>
+<h3 align="center">A passionate frontend developer from Islamabad</h3>
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding" width="400" align="right" >
 
