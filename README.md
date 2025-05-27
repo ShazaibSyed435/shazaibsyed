@@ -37,5 +37,10 @@
   - **React Js** 🚀
    ---
  
+<br>
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazaibsyed&show_icons=true&locale=en" alt="shazaibsyed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shazaibsyed&" alt="shazaibsyed" /></p>
 
